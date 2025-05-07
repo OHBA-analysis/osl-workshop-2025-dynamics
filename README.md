@@ -2,7 +2,7 @@
 This repository contains the materials for the OSL Workshop 2025 (dynamics). You will go through the notebooks and finish exercises in the notebooks.
 
 ## Instructions
-1. Install the `osl-dynamics` toolbox. You can follow the installation instructions in the [osl-dynamics documentation](https://osl-dynamics.readthedocs.io/en/latest/install.html) depending on your operating system.
+1. Install the `osl-dynamics` toolbox if you have not already. You can follow the installation instructions in the [osl-dynamics documentation](https://osl-dynamics.readthedocs.io/en/latest/install.html) depending on your operating system.
 2. Clone this repository to your local machine.
 ```
 git clone https://github.com/OHBA-analysis/osl-workshop-2025-dynamics.git
